@@ -1,4 +1,5 @@
 [workspace]
 members = [
-    "stream-server"
+    "stream-server",
+    "clients/*"
 ]
