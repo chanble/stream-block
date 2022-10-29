@@ -1,5 +1,5 @@
 [package]
-name = "stream-client"
+name = "sync-client"
 version = "0.1.0"
 edition = "2021"
 
